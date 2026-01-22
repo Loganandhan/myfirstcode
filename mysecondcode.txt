@@ -4,5 +4,6 @@
 int main(){
   char name[] = "Loganandhan";
   printf("Hello %s", name);
+  printf("Hello user");
   return 0;
 }
